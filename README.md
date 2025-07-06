@@ -1,5 +1,5 @@
-# TidyUp! – Final Project for ITCS-2530
-By Jasmine Lee**
+# TidyUp! â€“ Final Project for ITCS-2530
+By Jasmine Lee
 
 ## Project Overview
 TidyUp! is a gamified cleaning simulation game written in C++. Users complete tasks in various rooms to earn points and unlock new rooms.
@@ -19,9 +19,9 @@ TidyUp! is a gamified cleaning simulation game written in C++. Users complete ta
 4. Re-run the program later to "Load Progress"
 
 ## Files Included
-- `TidyUpFinal.cpp` – Full source code
-- `progress.txt` – Saved game progress
-- `README.md` – Project summary and instructions
+- `TidyUpFinal.cpp` â€“ Full source code
+- `progress.txt` â€“ Saved game progress
+- `README.md` â€“ Project summary and instructions
 
 ## GitHub Repo
 [https://github.com/JasLee520/TidyUp-FinalProject](https://github.com/JasLee520/TidyUp-FinalProject)
