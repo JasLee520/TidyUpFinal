@@ -24,4 +24,4 @@ TidyUp! is a gamified cleaning simulation game written in C++. Users complete ta
 - `README.md` – Project summary and instructions
 
 ## GitHub Repo
-(https://github.com/JasLee520/TidyUpFinal.git)
+(https://github.com/JasLee520/TidyUp-FinalProject.git)
